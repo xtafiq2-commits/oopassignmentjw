@@ -1,0 +1,7 @@
+Afiq,12345678,afiq@gmail.com
+afiqq,12345678,afiqq@gmail.com
+dsds,12345678,dcsd@rmail.com
+dcds,dsds,dsds
+afiq2,asdf1591@A6,afiq2@gmail.com
+aafiq20,12345678,aafiq20@gmail.com
+meow,123,meow123@gmail.com
