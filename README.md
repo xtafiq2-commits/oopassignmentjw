@@ -1,5 +1,11 @@
 # MyExpense Tracker 
 
+By Group JW (Section 5)
+Group Members:
+Muhammad Afiq Bin Abu Bakar (2510413)
+Arif Najmi Haikal Bin Zulkipli (2516763)
+Aiman Ariff Bin Shaifulnizam (2511655)
+Muhammad Azhar Bin Saifulnizar (2417579)
 MyExpense Tracker is a desktop-based personal finance management application built with Java and JavaFX. It provides users with a simple, secure, and user-friendly platform to record, categorize, and monitor their daily and recurring expenses.
 
 This project was developed as the final requirement for **BICS 1304 Object-Oriented Programming** at the Kulliyyah of Information & Communication Technology (KICT), IIUM.
